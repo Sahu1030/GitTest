@@ -1,2 +1,4 @@
-Hello
-in branch
+git checkout -b your-shiny-branch
+git add .
+git commit -m "Your Message"
+git push -u origin your-shiny-branch
